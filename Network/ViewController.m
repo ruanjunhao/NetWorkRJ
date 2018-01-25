@@ -22,11 +22,8 @@
     NSLog(@"3--%@", [NetworkInformation getNetworkTypeByReachability]);
     NSLog(@"4--%@", [NetworkInformation getNetworkType]);
 
-
     
     NSLog(@"dev1");
-    NSLog(@"master1");
-
     
 
 }
