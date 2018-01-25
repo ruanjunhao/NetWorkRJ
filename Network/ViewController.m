@@ -23,7 +23,8 @@
     NSLog(@"4--%@", [NetworkInformation getNetworkType]);
 
     
-    NSLog(@"dev1");
+    NSLog(@"master11");
+
     
 
 }
